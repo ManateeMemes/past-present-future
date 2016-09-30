@@ -1,0 +1,88 @@
+body {
+  font-size: 18px;
+  margin: auto;
+  padding: 8px;
+  background-color: #e0e6e7;
+  font-family: 'Farsan', cursive;
+  max-width: 700px;
+}
+
+section {
+  clear: both;
+}
+
+h1 {
+  color: #235b61;
+	text-align: center;
+  font-family: 'Homenaje', sans-serif;
+	font-size: 30px;
+  border-left: 10px solid #648d96;
+  border-right: 10px solid #648d96;
+  background-color: #dad1e9;
+}
+
+h2 {
+  color: #235b61;
+	text-align: center;
+	font-family: 'Homenaje', sans-serif;
+	font-size: 25px;
+  border-left: 10px solid #648d96;
+	border-right: 10px solid #648d96;
+  background-color: #dad1e9;
+}
+
+h3 {
+  color: #235b61;
+	text-align: center;
+	font-family: 'Homenaje', sans-serif;
+	font-size: 20px;
+
+}
+
+p {
+  color: #235b61;
+	text-align: left;
+  font-family: 'Farsan', cursive;
+	font-size: 18px;
+}
+
+li {
+  color: #235b61;
+}
+
+img {
+  max-width: 100%
+}
+
+img.left {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+img.right {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:link {
+	color: #ff6666;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #b366ff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #ff6666;
+	text-decoration: underline;
+}
